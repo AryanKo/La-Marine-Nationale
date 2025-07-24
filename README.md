@@ -37,13 +37,13 @@ To view this website locally or deploy it:
     cd La-Marine-Nationale
     ```
 3.  **Open the file:**
-    Simply open the `french_navy.html` file in your preferred web browser.
+    Simply open the `index.html` file in your preferred web browser.
 
 ### GitHub Pages Deployment
 
 This website is perfectly suited for hosting with GitHub Pages, offering a free and easy way to publish your site.
 
-1.  **Create a new public GitHub repository** and upload the `french_navy.html` file (along with the `preview.jpg` screenshot).
+1.  **Create a new public GitHub repository** and upload the `index.html` file.
 2.  Go to your repository's **`Settings`** tab.
 3.  In the left sidebar, click on **`Pages`**.
 4.  Under "Build and deployment," select **`Deploy from a branch`**.
